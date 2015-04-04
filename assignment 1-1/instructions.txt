@@ -1,0 +1,31 @@
+Commands:
+
+	q: exit program
+
+	z: make dots and lines bigger
+
+	x: make dots and lines smaller
+
+	A: random output
+	
+	R: clear screen
+
+	+: move dots faster
+
+	-: move dots slower
+
+	P: pause
+
+	1: mode 1 //only mode that works right now
+
+	2: mode 2 
+
+	3: mode 3
+------------------------------------------------
+
+This program has three modes inside it. The program starts in zero mode and will stay there
+until you select one of the modes. There is mode one which is a dot mode where you first
+click to place a dot, then click to give it a direction. You may do this as many times as
+you like in all modes.
+	
+	
