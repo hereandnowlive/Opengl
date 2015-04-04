@@ -1,5 +1,4 @@
-/* CS 3GC3 - terrian assignment
- * by mitchell spector
+/*
  * Nov 27, 2014
  */
  #include <stdio.h>
